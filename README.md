@@ -26,5 +26,16 @@ Things you may want to cover:
 | Column             | Type   | Options     |
 | ------------------ | ------ | ----------- |
 | name               | string | null: false |
-| phone_number       | string | null: false |
-| room_type          | string | null: false |
+| email              | string | null: false |
+| password           | string | null: false |
+
+## customerテーブル
+
+ | Column             | Type   | Options     |
+ | ------------------ | ------ | ----------- |
+ | name
+ | phonenumber        | string | null: false |
+ | room_type          | string | null: false |
+ 
+
+ 
